@@ -20,4 +20,3 @@
      <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
      <img width="100%" alt="github-snake" src="./assets/github-snake.svg" /> 
 </picture>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gcl010813&layout=compact)](https://github.com/Gcl010813/github-readme-stats)
