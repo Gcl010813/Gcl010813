@@ -20,7 +20,7 @@
      <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
      <img width="100%" alt="github-snake" src="./assets/github-snake.svg" /> 
 </picture>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gcl010813&show_icons=true&theme=dark)](https://github.com/Gcl010813/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gcl010813)](https://github.com/Gcl010813/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gcl010813)](https://github.com/Gcl010813/github-readme-stats)
 
