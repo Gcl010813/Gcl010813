@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/-Vant-3395d8?logo=Vant">
     <img src="https://img.shields.io/badge/-Nodejs-79b264?logo=Nodejs">
     <img src="https://github-readme-stats.vercel.app/api?username=Gcl010813&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gcl010813&show_icons=true&count_private=true&theme=gotham"/>
 </div>
 
 
