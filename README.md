@@ -4,18 +4,12 @@
 
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-C-708090?logo=C">
+    <img src="https://img.shields.io/badge/-Github-black?logo=github">
     <img src="https://img.shields.io/badge/-Python-218bea?logo=python">
-    <img src="https://img.shields.io/badge/-Java-grey?logo=Java">
     <img src="https://img.shields.io/badge/-HTML5-cf1322?logo=html5">
     <img src="https://img.shields.io/badge/-CSS3-2b6dbf?logo=css3"> 
     <img src="https://img.shields.io/badge/-JavaScript-f6da1c?logo=javascript"> 
-    <img src="https://img.shields.io/badge/-Jquery-J?logo=Jquery">
-    <img src="https://img.shields.io/badge/-Bootstrap-%234B32C3?logo=Bootstrap">
-    <img src="https://img.shields.io/badge/-Git-87CEEB?logo=git">
-    <img src="https://img.shields.io/badge/-Github-black?logo=github">
     <img src="https://img.shields.io/badge/-Vue.js-3eb082?logo=Vue.js">    
-    <img src="https://img.shields.io/badge/-Vant-3395d8?logo=Vant">
     <img src="https://img.shields.io/badge/-Node.js-79b264?logo=Node.js">
 </div>
 
